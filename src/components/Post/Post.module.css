@@ -1,0 +1,17 @@
+.postStyle {
+    display: grid;
+    justify-content: center;
+    margin: 10px;
+    border: 1px solid whitesmoke;
+    width: calc(20% - 22px);
+    box-shadow: 5px 5px 5px whitesmoke;
+}
+
+.buttonStyle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10vw;
+    margin: 5px auto;
+    cursor: pointer;
+}
